@@ -8,7 +8,7 @@ import datetime
 
 dt=datetime.datetime.today()
 
-TOKEN = "5566000684:AAFYEaKRSNQwjo8cjaBM-AEb8SygmcC2AWQ"
+TOKEN = "token"
 
 bot=telebot.TeleBot(TOKEN)
 
